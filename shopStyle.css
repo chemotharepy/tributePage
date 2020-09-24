@@ -1,0 +1,65 @@
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+
+body {
+    background-color: rgb(211,211,210);
+    text-align: center;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-bottom: 1500px;
+    padding-left: 20%;
+}
+
+#sh-image {
+
+    display: flex;
+    align-items: center;
+    width: 60px;
+    height: auto;
+    padding-right: 30px;
+    padding-bottom: 500px;
+    padding-left: 80px;
+    padding-top: 1px;
+}
+.image {
+  width: 2000px;
+  height: auto;
+  padding-left: 80px;
+  padding-top: 80px;
+
+}
+
+h1 {
+  display: flex;
+  justify-content: : center;
+  font-size: 120px;
+  text-align: center;
+  padding-left: 80px;
+  padding-bottom: 1px;
+}
+
+#tray ul{
+  display: flex;
+  list-style: none;
+  flex-direction: row-reverse;
+  padding: 1px;
+  position: relative;
+}
+
+.li {
+  font-size: 60px;
+  padding: 0.6%;
+}
+h3 {
+  font-size: 100px;
+  text-align: center;
+  padding-left: 80px;
+  padding-bottom: 10px;
+  position: absolute;
+}
+h4 {
+  font-size: 60px;
+  text-align: center;
+  padding-left: 80px;
+  padding-bottom: 100px;
+  position: absolute;
+}
